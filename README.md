@@ -17,7 +17,7 @@ A lightweight Natural Language Processing (NLP) application built with Python an
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/spam-sms-classifier.git](https://github.com/yourusername/spam-sms-classifier.git)
+   git clone [https://github.com/NikhilBhima-24/spam-sms-classifier.git](https://github.com/NikhilBhima-24/spam-sms-classifier.git)
 2. Install the required dependencies:
 
 Bash
